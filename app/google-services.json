@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1096744074382",
+    "project_id": "creative-shop-77943",
+    "storage_bucket": "creative-shop-77943.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096744074382:android:45756e783fd2ae7b071ddf",
+        "android_client_info": {
+          "package_name": "com.epsports.creativeshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAplxH9ASjThHEqIypXQs3SO9obYcoSq4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
